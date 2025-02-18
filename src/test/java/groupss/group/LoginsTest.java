@@ -15,7 +15,7 @@ import org.testng.annotations.Test;
 //import static org.junit.Assert.assertTrue;
 //import static org.junit.Assert.assertFalse;
 
-public class LoginTest {
+public class LoginsTest {
 
     private WebDriver driver;
 
