@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2025-02-18T09:58:20 IST" name="Default suite" finished-at="2025-02-18T09:58:29 IST" duration-ms="9334">
     <groups>
     </groups>
@@ -12,6 +13,18 @@
           </reporter-output>
         </test-method> <!-- twokeysAtsametime -->
       </class> <!-- alerts.keychordpractice -->
+=======
+  <suite started-at="2025-02-18T11:28:04 IST" name="Default suite" finished-at="2025-02-18T11:28:14 IST" duration-ms="10061">
+    <groups>
+    </groups>
+    <test started-at="2025-02-18T11:28:04 IST" name="Default test" finished-at="2025-02-18T11:28:14 IST" duration-ms="10061">
+      <class name="groupss.group.colorpicker">
+        <test-method signature="colors()[pri:0, instance:groupss.group.colorpicker@7a8fa663]" started-at="2025-02-18T11:28:04 IST" name="colors" finished-at="2025-02-18T11:28:14 IST" duration-ms="10000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- colors -->
+      </class> <!-- groupss.group.colorpicker -->
+>>>>>>> 3038b44d17c4b6920259a01c566de93cf2711f42
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
